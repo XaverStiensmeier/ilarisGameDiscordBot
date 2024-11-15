@@ -1,0 +1,13 @@
+411308040281915412:
+  being_attacked_today: false
+  equipped_armor: null
+  equipped_weapons: []
+  inventory:
+  - RS: 1
+    TP: 0
+    TPW6: 0
+    name: Frozen Helmet
+    type: ruestung
+  last_attack: '0001-01-01T00:00:00'
+  last_roll: '2024-11-11T23:34:10.194993'
+  wounds: 0

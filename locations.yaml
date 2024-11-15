@@ -1,0 +1,30 @@
+Mittelreich:
+  - name: "Frozen Helmet"
+    RS: 1
+    TP: 0
+    TPW6: 0
+    type: "ruestung"
+  - name: "Langschwert"
+    TP: 4
+    TPW6: 1
+    type: "waffe"
+    hands: 1
+Norden:
+  - name: "Schild"
+    RS: 1
+    TP: 0
+    type: "waffe"
+    hands: 1
+  - name: "Kurzschwert"
+    RS: 0
+    TP: 2
+    WM: 1
+    type: "waffe"
+    hands: 1
+  - name: "Zweihänder"
+    RS: 0
+    TP: 2
+    WM: 3
+    type: "waffe"
+    hands: 1
+# Add other locations similarly...
